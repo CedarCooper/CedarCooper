@@ -2,16 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:73889e,100:375575&text=%20Hey%20There%20⛈&fontColor=d7dde3&animation=fadeIn&height=100" />
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/cedar-cooper/" >
-<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" />
-</a>
+
 </p>
 <p align="center">
-<img height="450" src="https://pbs.twimg.com/media/Ft1g6b6XsAA_wvG?format=jpg&name=small" />
-<p align="center"><i>@thesadghostclub</i></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/P0ar8pIucRwje/giphy.gif"/>
+</div>
 </p>
 
-<h2>Meet Cedar 🪴</h2>
+<h2>Meet Cedar 🌲</h2>
 
 <b>Name:</b> <i>Cedar Cooper</i><br /> 
 
@@ -38,7 +37,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="45"  width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" height="45"  width="45"/>
 </p>
-          
+<b>Connect:</b><br />
+<a href="https://www.linkedin.com/in/cedar-cooper/" >
+<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" />
+</a>          
           
           
           

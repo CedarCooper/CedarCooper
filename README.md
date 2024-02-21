@@ -6,7 +6,8 @@
 </p>
 <p align="center">
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/P0ar8pIucRwje/giphy.gif"/>
+  <img src="https://media.giphy.com/media/XZn9yRAjnVEQ0/giphy.gif"/>
+  
 </div>
 </p>
 
@@ -16,11 +17,11 @@
 
 <b>Pronouns:</b> <i>they/them</i><br />
 
-<b>Located In:</b> <i>USA -> Relocating!</i><br />
+<b>Located In:</b> <i>Missoula, MT</i>
 
 <b>Hobbies:</b> <i>Legos, Hiking, Bird Watching</i><br /> 
 
-<b>Dream Vacation:</b> <i>Svalbard, Norway</i><br />
+<b>Dream Vacation:</b> <i>Antarctica</i><br />
 
 <b>Favorite Tools:</b> <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -29,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="45"  width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45"  width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="45"  width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="45" width="45" />
 <img src="https://github.com/CedarCooper/CedarCooper/assets/87053156/a674cb13-b3fd-43ec-8cfd-71574c20778d" alt="tableau" height="45" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" height="45"  width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" height="45" wdith="45" />

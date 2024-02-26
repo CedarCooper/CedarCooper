@@ -17,7 +17,7 @@
 
 <b>Pronouns:</b> <i>they/them</i><br />
 
-<b>Located In:</b> <i>Missoula, MT</i>
+<b>Located In:</b> <i>USA</i>
 
 <b>Hobbies:</b> <i>Legos, Hiking, Bird Watching</i><br /> 
 
